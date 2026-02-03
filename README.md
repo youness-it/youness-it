@@ -19,7 +19,7 @@ My goal is to start an Ausbildung as a Fachinformatiker – Application Developm
 - Web development
 - IT fundamentals
 - Microcontrollers & IoT
-- German language (B1 goal)
+- German language (B2 goal)
 
 ## 🎯 Goal
 Start an IT Ausbildung and grow step by step as a software developer.
