@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Youness
 
-<!--
-**youness-it/youness-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated IT learner focused on programming, application development, and basic robotics.  
+My goal is to start an Ausbildung as a Fachinformatiker – Application Development in Germany.
 
-Here are some ideas to get you started:
+## 💻 Programming & IT Skills
+- Python (basics)
+- HTML, CSS, JavaScript (basics)
+- Linux fundamentals
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Robotics & Hardware
+- Arduino (basics)
+- ESP32 (IoT basics)
+- Sensors & serial communication
+
+## 📚 Currently Learning
+- Python programming
+- Web development
+- IT fundamentals
+- Microcontrollers & IoT
+- German language (B1 goal)
+
+## 🎯 Goal
+Start an IT Ausbildung and grow step by step as a software developer.
